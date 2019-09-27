@@ -4,7 +4,7 @@ import SeasonDisplay from "./SeasonDisplay";
 import Spinner from "./Spinner";
 
 class App extends React.Component {
-  //This constructor is the same thing that the line 11
+  //This constructor is the same thing that the line 13
   /*constructor(props) {
     super(props);
     this.state = { lat: null, errorMessage: "" };
