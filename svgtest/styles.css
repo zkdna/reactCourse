@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+.a{
+    float: right;
+    width: auto;
+}
+.b{
+    float: left;
+    width: auto;
+}
+
+.logo{
+    width: auto;
+    height: auto;
+}

@@ -1,0 +1,14 @@
+.modal {
+  position: absolute;
+  top: 250px !important;
+  right: 100px !important;
+  bottom: 250px !important;
+  left: 100px !important;
+  z-index: 10040;
+  overflow: auto;
+  overflow-y: auto;
+}
+
+.modalObject {
+  background: orange;
+}
