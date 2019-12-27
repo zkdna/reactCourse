@@ -1,0 +1,21 @@
+.wrapper {
+  display: table-cell;
+  vertical-align: bottom;
+  height: 200px;
+}
+.content {
+  max-height: 200px;
+  overflow: auto;
+  text-align: right;
+  opacity: 1;
+  animation: fade 2s linear;
+}
+@keyframes fade {
+  0%,
+  100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
