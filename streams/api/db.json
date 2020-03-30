@@ -11,22 +11,15 @@
       "id": 2
     },
     {
-      "title": "I created this stream",
-      "description": "This was made by me!",
-      "userId": "107334809226314708386",
-      "id": 4
-    },
-    {
       "title": "Unexpected behavior",
       "description": "Didn't expect that!",
       "userId": "107334809226314708386",
       "id": 5
     },
     {
-      "title": "Programmatic Navigation",
-      "description": "You should not see this on the form page!",
-      "userId": "107334809226314708386",
-      "id": 6
+      "title": "Me Streaming Component Reuse!",
+      "description": "The stream is about refactoring",
+      "id": 7
     }
   ]
 }
